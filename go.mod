@@ -4,7 +4,6 @@ go 1.22.4
 
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
-	github.com/flipped-aurora/gin-vue-admin/server v0.0.0-20240805120523-332a8de2e925
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/fvbock/endless v0.0.0-20170109170031-447134032cb6
 	github.com/gin-gonic/gin v1.10.0
