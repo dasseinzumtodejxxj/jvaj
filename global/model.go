@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-type LYY_MODEL struct {
+type GVA_MODEL struct {
 	ID        uint `gorm:"primarkey" json:"ID"`
 	CreateDAt time.Time
 	UpdatedAt time.Time
