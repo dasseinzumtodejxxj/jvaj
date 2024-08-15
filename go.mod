@@ -22,7 +22,7 @@ require (
 	github.com/songzhibin97/gkit v1.2.13
 	github.com/spf13/viper v1.19.0
 	github.com/tencentyun/cos-go-sdk-v5 v0.7.54
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.25.0
 	golang.org/x/sync v0.7.0
 	golang.org/x/text v0.16.0
