@@ -1,0 +1,46 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:13:09.352	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:13:29.463	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:39:07.366	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:39:07.367	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:39:07.370	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:39:07.371	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:43:50.940	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:43:50.941	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:43:50.944	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:43:50.945	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:48:23.597	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:48:23.598	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:48:23.601	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:48:23.601	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:50:00.095	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:50:00.096	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:50:00.100	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:50:00.100	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:53:08.214	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:53:08.214	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:53:08.217	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:53:08.218	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:58:21.976	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:58:21.976	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:58:21.980	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024-08-17 15:58:21.980	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:32.789	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:32.790	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:32.794	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:32.794	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:47.795	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:47.795	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:47.798	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[https://github.com/dasseinzumtodejxxj/jvaj]2024-08-17 16:03:47.799	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[https://github.com/dasseinzumtodejxxj/jva]2024-08-17 16:05:40.493	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[https://github.com/dasseinzumtodejxxj/jva]2024-08-17 16:05:40.494	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[https://github.com/dasseinzumtodejxxj/jva]2024-08-17 16:05:40.497	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[https://github.com/dasseinzumtodejxxj/jva]2024-08-17 16:05:40.497	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:06:35.619	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:06:35.620	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:06:35.623	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:06:35.623	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
+[github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:07:03.904	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/gorm.go:59	register table success
+[github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:07:03.904	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:60	register swagger handler
+[github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:07:03.909	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/initialize/router.go:99	router register success
+[github.com/dasseinzumtodejxxj/jvaj/gva]2024-08-17 16:07:03.909	[34minfo[0m	C:/Users/ASUS1/GolandProjects/gva/core/server.go:39	server run success on 	{"address": ":8888"}
