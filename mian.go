@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/initialize"
+	_ "go.uber.org/automaxprocs"
 	"go.uber.org/zap"
 	"gva/core"
 	"gva/global"
+	"gva/initialize"
 )
 
 //go:generate go env -w GO111MODULE=on

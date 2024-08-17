@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/flipped-aurora/gin-vue-admin/server/global"
+	"gva/global"
 	"runtime"
 	"time"
 
@@ -107,8 +107,8 @@ func InitRAM() (r Ram, err error) {
 //@return: d Disk, err error
 
 func InitDisk() (d []Disk, err error) {
-	for i := range global.GVA_CONFIG.DiskList {
-		mp := global.GVA_CONFIG.DiskList[i].MountPoint
+	for i := range global.Gxva_CONFIG.DiskList {
+		mp := global.Gxva_CONFIG.DiskList[i].MountPoint
 		if u, err := disk.Usage(mp); err != nil {
 			return d, err
 		} else {

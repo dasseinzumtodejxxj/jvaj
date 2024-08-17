@@ -2,8 +2,10 @@ package core
 
 import (
 	"fmt"
-	"github.com/flipped-aurora/gin-vue-admin/server/initialize"
-	"github.com/flipped-aurora/gin-vue-admin/server/service/system"
+	"gva/service/system"
+
+	"gva/initialize"
+
 	"go.uber.org/zap"
 	"gva/global"
 )
@@ -38,9 +40,8 @@ func RunWindowsServer() {
 
 	fmt.Printf(`
 	欢迎使用 gin-xjjx-vue-admin
-	当前版本:v2.6.5
     加群方式:微信号：gsz19831210
-	项目地址：
+	项目地址：https://github.com/dasseinzumtodejxxj/jvaj
 	插件市场:
 	默认自动化文档地址:http://127.0.0.1%s/swagger/index.html
 	默认前端文件运行地址:http://127.0.0.1:8080

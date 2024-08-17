@@ -12,7 +12,7 @@ autocode:
   server-api: /api/v1/%s
   server-plug: /plugin/%s
   server-initialize: /initialize
-  root: C:\Users\ASUS1\Desktop\gin-vue-admin-main\gin-vue-admin-main
+  root: https://github.com/dasseinzumtodejxxj/jvaj
   web-table: /view
   web: /web/src
   server-service: /service/%s
@@ -26,8 +26,8 @@ aws-s3:
   endpoint: ""
   secret-id: your-secret-id
   secret-key: your-secret-key
-  base-url: https://gin.vue.admin
-  path-prefix: github.com/flipped-aurora/gin-vue-admin/server
+  base-url: https://github.com/dasseinzumtodejxxj/jvaj
+  path-prefix: https://github.com/dasseinzumtodejxxj/jvaj
   s3-force-path-style: false
   disable-ssl: false
 captcha:
@@ -209,11 +209,11 @@ tencent-cos:
   region: ap-shanghai
   secret-id: your-secret-id
   secret-key: your-secret-key
-  base-url: https://gin.vue.admin
-  path-prefix: github.com/flipped-aurora/gin-vue-admin/server
+  base-url: https://github.com/dasseinzumtodejxxj/jvaj
+  path-prefix: https://github.com/dasseinzumtodejxxj/jvaj
 zap:
   level: info
-  prefix: '[github.com/flipped-aurora/gin-vue-admin/server]'
+  prefix: '[github.com/dasseinzumtodejxxj/jvaj/gva]'
   format: console
   director: log
   encode-level: LowercaseColorLevelEncoder
